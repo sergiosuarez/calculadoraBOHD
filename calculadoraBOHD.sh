@@ -3,6 +3,7 @@
 # Autores:       Sergio Suarez, Blanca Alvez
 # Objetivo del script:      Calcular o convertir numeros de una base a otra.
 # Requerimientos: BASH shell, libreria BC.
+# Materia:	  Fundamentos de Linux
 
 ######################################
 #Simbologia: 
